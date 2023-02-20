@@ -1,0 +1,5 @@
+F AFTER_SU.SH;1                                                                                                                                                                                                   	after_success.sh
+F BEFORE_S.SH;1                                                                                                                                                                                                   	before_script.sh
+F EXTRA.INI;1                                                                                                                                                                                                     	extra.ini
+F INSTALL.SH;1                                                                                                                                                                                                    	install.sh
+F SCRIPT.SH;1                                                                                                                                                                                                     	script.sh

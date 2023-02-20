@@ -1,0 +1,5 @@
+F EXCEPTIO.PHP;1                                                                                                                                                                                                  	ExceptionInterface.php
+F EXPRESSI.PHP;1                                                                                                                                                                                                  	ExpressionErrorException.php
+F INTERNAL.PHP;1                                                                                                                                                                                                  	InternalErrorException.php
+F PARSEEXC.PHP;1                                                                                                                                                                                                  	ParseException.php
+F SYNTAXER.PHP;1                                                                                                                                                                                                  	SyntaxErrorException.php

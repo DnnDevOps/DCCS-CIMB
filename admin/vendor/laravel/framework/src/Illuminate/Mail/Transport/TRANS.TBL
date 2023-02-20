@@ -1,0 +1,5 @@
+F LOGTRANS.PHP;1                                                                                                                                                                                                  	LogTransport.php
+F MAILGUNT.PHP;1                                                                                                                                                                                                  	MailgunTransport.php
+F MANDRILL.PHP;1                                                                                                                                                                                                  	MandrillTransport.php
+F SESTRANS.PHP;1                                                                                                                                                                                                  	SesTransport.php
+F TRANSPOR.PHP;1                                                                                                                                                                                                  	Transport.php

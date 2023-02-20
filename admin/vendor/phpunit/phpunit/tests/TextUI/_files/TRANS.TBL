@@ -1,0 +1,3 @@
+F EXPECT_E.TXT;1                                                                                                                                                                                                  	expect_external.txt
+F PHPT_ENV.TXT;1                                                                                                                                                                                                  	phpt-env.expected.txt
+F PHPT_EXT.PHP;1                                                                                                                                                                                                  	phpt_external.php

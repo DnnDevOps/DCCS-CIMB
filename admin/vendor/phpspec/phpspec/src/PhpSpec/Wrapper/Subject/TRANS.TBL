@@ -1,0 +1,5 @@
+F CALLER.PHP;1                                                                                                                                                                                                    	Caller.php
+D EXPECTAT                                                                                                                                                                                                        	Expectation
+F EXPECTAT.PHP;1                                                                                                                                                                                                  	ExpectationFactory.php
+F SUBJECTW.PHP;1                                                                                                                                                                                                  	SubjectWithArrayAccess.php
+F WRAPPEDO.PHP;1                                                                                                                                                                                                  	WrappedObject.php

@@ -1,0 +1,5 @@
+F PROTO000.PHP;1                                                                                                                                                                                                  	ProtocolProcessorInterface.php
+F PROTOCOL.PHP;1                                                                                                                                                                                                  	ProtocolException.php
+F REQUESTS.PHP;1                                                                                                                                                                                                  	RequestSerializerInterface.php
+F RESPONSE.PHP;1                                                                                                                                                                                                  	ResponseReaderInterface.php
+D TEXT                                                                                                                                                                                                            	Text

@@ -1,0 +1,6 @@
+F MIDDLEWA.PHP;1                                                                                                                                                                                                  	Middleware.php
+F REGISTRA.PHP;1                                                                                                                                                                                                  	Registrar.php
+F RESPONSE.PHP;1                                                                                                                                                                                                  	ResponseFactory.php
+F TERMINAB.PHP;1                                                                                                                                                                                                  	TerminableMiddleware.php
+F URLGENER.PHP;1                                                                                                                                                                                                  	UrlGenerator.php
+F URLROUTA.PHP;1                                                                                                                                                                                                  	UrlRoutable.php

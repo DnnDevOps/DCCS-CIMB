@@ -1,0 +1,5 @@
+D DATE                                                                                                                                                                                                            	Date
+F REPLACEF.PHP;1                                                                                                                                                                                                  	ReplaceFilter.php
+F SHALLOWC.PHP;1                                                                                                                                                                                                  	ShallowCopyFilter.php
+D SPL                                                                                                                                                                                                             	Spl
+F TYPEFILT.PHP;1                                                                                                                                                                                                  	TypeFilter.php

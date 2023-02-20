@@ -1,0 +1,3 @@
+F MEMCA000.PHP;1                                                                                                                                                                                                  	MemcachedMock.php
+F MEMCACHE.PHP;1                                                                                                                                                                                                  	MemcacheMock.php
+F REDISMOC.PHP;1                                                                                                                                                                                                  	RedisMock.php

@@ -1,0 +1,5 @@
+F MYSQLPRO.PHP;1                                                                                                                                                                                                  	MySqlProcessor.php
+F POSTGRES.PHP;1                                                                                                                                                                                                  	PostgresProcessor.php
+F PROCESSO.PHP;1                                                                                                                                                                                                  	Processor.php
+F SQLITEPR.PHP;1                                                                                                                                                                                                  	SQLiteProcessor.php
+F SQLSERVE.PHP;1                                                                                                                                                                                                  	SqlServerProcessor.php

@@ -1,0 +1,1 @@
+{"version":3,"sources":["delete.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","file":"delete.js","sourcesContent":["/* global $ */\n$(document).ready(function () {\n    $('.delete').click(function (event) {\n        $('#delete-form').attr('action', $(event.currentTarget).data('url'));\n        $('#delete-dialog').modal('show');\n    });\n});"]}

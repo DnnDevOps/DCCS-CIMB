@@ -1,0 +1,5 @@
+D CONTROLL                                                                                                                                                                                                        	Controllers
+F KERNEL.PHP;1                                                                                                                                                                                                    	Kernel.php
+D MIDDLEWA                                                                                                                                                                                                        	Middleware
+D REQUESTS                                                                                                                                                                                                        	Requests
+F ROUTES.PHP;1                                                                                                                                                                                                    	routes.php

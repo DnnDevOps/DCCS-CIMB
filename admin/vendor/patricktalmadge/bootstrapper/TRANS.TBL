@@ -1,0 +1,6 @@
+F CHANGELO.MD;1                                                                                                                                                                                                   	CHANGELOG.md
+F COMPOSER.JSO;1                                                                                                                                                                                                  	composer.json
+F COMPOSER.LOC;1                                                                                                                                                                                                  	composer.lock
+F PHPSPEC.YML;1                                                                                                                                                                                                   	phpspec.yml
+F README.MD;1                                                                                                                                                                                                     	README.md
+D SRC                                                                                                                                                                                                             	src

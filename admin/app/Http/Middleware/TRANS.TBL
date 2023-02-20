@@ -1,0 +1,5 @@
+F AUTHENTI.PHP;1                                                                                                                                                                                                  	Authenticate.php
+F ENCRYPTC.PHP;1                                                                                                                                                                                                  	EncryptCookies.php
+F REDIRECT.PHP;1                                                                                                                                                                                                  	RedirectIfAuthenticated.php
+F SETTINGS.PHP;1                                                                                                                                                                                                  	SettingsMiddleware.php
+F VERIFYCS.PHP;1                                                                                                                                                                                                  	VerifyCsrfToken.php

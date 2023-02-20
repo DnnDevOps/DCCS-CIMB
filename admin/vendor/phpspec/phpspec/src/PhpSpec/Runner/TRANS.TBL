@@ -1,0 +1,6 @@
+F COLLABOR.PHP;1                                                                                                                                                                                                  	CollaboratorManager.php
+F EXAMPLER.PHP;1                                                                                                                                                                                                  	ExampleRunner.php
+D MAINTAIN                                                                                                                                                                                                        	Maintainer
+F MATCHERM.PHP;1                                                                                                                                                                                                  	MatcherManager.php
+F SPECIFIC.PHP;1                                                                                                                                                                                                  	SpecificationRunner.php
+F SUITERUN.PHP;1                                                                                                                                                                                                  	SuiteRunner.php

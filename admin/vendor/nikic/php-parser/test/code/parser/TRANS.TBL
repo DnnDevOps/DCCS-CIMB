@@ -1,0 +1,7 @@
+F BLOCKCOM.TES;1                                                                                                                                                                                                  	blockComments.test
+F COMMENTS.TES;1                                                                                                                                                                                                  	comments.test
+D ERRORHAN                                                                                                                                                                                                        	errorHandling
+D EXPR                                                                                                                                                                                                            	expr
+D SCALAR                                                                                                                                                                                                          	scalar
+F SEMIRESE.TES;1                                                                                                                                                                                                  	semiReserved.test
+D STMT                                                                                                                                                                                                            	stmt

@@ -1,0 +1,3 @@
+F COLUMNCO.PHP;1                                                                                                                                                                                                  	ColumnConsistencyValidator.php
+F FORBIDDE.PHP;1                                                                                                                                                                                                  	ForbiddenNullValuesValidator.php
+F SKIPNULL.PHP;1                                                                                                                                                                                                  	SkipNullValuesFormatter.php

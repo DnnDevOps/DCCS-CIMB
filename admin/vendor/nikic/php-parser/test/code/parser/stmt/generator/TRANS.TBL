@@ -1,0 +1,3 @@
+F BASIC.TES;1                                                                                                                                                                                                     	basic.test
+F YIELDPRE.TES;1                                                                                                                                                                                                  	yieldPrecedence.test
+F YIELDUNA.TES;1                                                                                                                                                                                                  	yieldUnaryPrecedence.test

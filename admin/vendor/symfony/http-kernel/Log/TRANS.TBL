@@ -1,0 +1,3 @@
+F DEBUGLOG.PHP;1                                                                                                                                                                                                  	DebugLoggerInterface.php
+F LOGGERIN.PHP;1                                                                                                                                                                                                  	LoggerInterface.php
+F NULLLOGG.PHP;1                                                                                                                                                                                                  	NullLogger.php

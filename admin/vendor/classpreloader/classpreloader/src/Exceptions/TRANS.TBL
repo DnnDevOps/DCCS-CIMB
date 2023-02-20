@@ -1,0 +1,4 @@
+F DIRCONST.PHP;1                                                                                                                                                                                                  	DirConstantException.php
+F FILECONS.PHP;1                                                                                                                                                                                                  	FileConstantException.php
+F STRICTTY.PHP;1                                                                                                                                                                                                  	StrictTypesException.php
+F VISITORE.PHP;1                                                                                                                                                                                                  	VisitorExceptionInterface.php

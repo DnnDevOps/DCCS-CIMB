@@ -1,0 +1,7 @@
+F CHANGELO.MD;1                                                                                                                                                                                                   	changelog.md
+F COMPOSER.JSO;1                                                                                                                                                                                                  	composer.json
+D CONFIG                                                                                                                                                                                                          	config
+F LICENSE.;1                                                                                                                                                                                                      	LICENSE
+F README.MD;1                                                                                                                                                                                                     	readme.md
+D SRC                                                                                                                                                                                                             	src
+F _GITIGNO.;1                                                                                                                                                                                                     	.gitignore

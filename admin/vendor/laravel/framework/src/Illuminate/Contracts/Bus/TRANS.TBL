@@ -1,0 +1,4 @@
+F DISPATCH.PHP;1                                                                                                                                                                                                  	Dispatcher.php
+F HANDLERR.PHP;1                                                                                                                                                                                                  	HandlerResolver.php
+F QUEUEING.PHP;1                                                                                                                                                                                                  	QueueingDispatcher.php
+F SELFHAND.PHP;1                                                                                                                                                                                                  	SelfHandling.php

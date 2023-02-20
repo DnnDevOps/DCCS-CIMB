@@ -1,0 +1,6 @@
+F COMMENTS.TES;1                                                                                                                                                                                                  	comments.test
+D EXPR                                                                                                                                                                                                            	expr
+F INLINEHT.FIL;1                                                                                                                                                                                                  	inlineHTMLandPHPtest.file-test
+F ONLYINLI.FIL;1                                                                                                                                                                                                  	onlyInlineHTML.file-test
+F ONLYPHP.FIL;1                                                                                                                                                                                                   	onlyPHP.file-test
+D STMT                                                                                                                                                                                                            	stmt

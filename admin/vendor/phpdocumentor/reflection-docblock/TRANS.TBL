@@ -1,0 +1,6 @@
+F COMPOSER.JSO;1                                                                                                                                                                                                  	composer.json
+F EASY_COD.NEO;1                                                                                                                                                                                                  	easy-coding-standard.neon
+F LICENSE.;1                                                                                                                                                                                                      	LICENSE
+F README.MD;1                                                                                                                                                                                                     	README.md
+D SRC                                                                                                                                                                                                             	src
+F _COVERAL.YML;1                                                                                                                                                                                                  	.coveralls.yml

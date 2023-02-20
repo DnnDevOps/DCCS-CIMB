@@ -1,0 +1,5 @@
+F ABSTRACT.PHP;1                                                                                                                                                                                                  	AbstractNodeVisitor.php
+F DIRVISIT.PHP;1                                                                                                                                                                                                  	DirVisitor.php
+F FILEVISI.PHP;1                                                                                                                                                                                                  	FileVisitor.php
+F NODETRAV.PHP;1                                                                                                                                                                                                  	NodeTraverser.php
+F STRICTTY.PHP;1                                                                                                                                                                                                  	StrictTypesVisitor.php

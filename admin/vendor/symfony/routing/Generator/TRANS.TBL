@@ -1,0 +1,4 @@
+F CONFIGUR.PHP;1                                                                                                                                                                                                  	ConfigurableRequirementsInterface.php
+D DUMPER                                                                                                                                                                                                          	Dumper
+F URLGE000.PHP;1                                                                                                                                                                                                  	UrlGeneratorInterface.php
+F URLGENER.PHP;1                                                                                                                                                                                                  	UrlGenerator.php

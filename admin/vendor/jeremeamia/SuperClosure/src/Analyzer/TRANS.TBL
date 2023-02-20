@@ -1,0 +1,5 @@
+F ASTANALY.PHP;1                                                                                                                                                                                                  	AstAnalyzer.php
+F CLOSUREA.PHP;1                                                                                                                                                                                                  	ClosureAnalyzer.php
+F TOKEN.PHP;1                                                                                                                                                                                                     	Token.php
+F TOKENANA.PHP;1                                                                                                                                                                                                  	TokenAnalyzer.php
+D VISITOR                                                                                                                                                                                                         	Visitor

@@ -1,0 +1,4 @@
+F INVALIDC.PHP;1                                                                                                                                                                                                  	InvalidCountException.php
+F INVALIDO.PHP;1                                                                                                                                                                                                  	InvalidOrderException.php
+F NOMATCHI.PHP;1                                                                                                                                                                                                  	NoMatchingExpectationException.php
+F RUNTIMEE.PHP;1                                                                                                                                                                                                  	RuntimeException.php

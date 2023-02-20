@@ -1,0 +1,5 @@
+F APPLICAT.PHP;1                                                                                                                                                                                                  	ApplicationContext.php
+D AUTOLOAD                                                                                                                                                                                                        	autoloader
+D FAKE                                                                                                                                                                                                            	Fake
+F FILESYST.PHP;1                                                                                                                                                                                                  	FilesystemContext.php
+F ISOLATED.PHP;1                                                                                                                                                                                                  	IsolatedProcessContext.php

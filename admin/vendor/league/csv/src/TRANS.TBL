@@ -1,0 +1,7 @@
+F ABSTRACT.PHP;1                                                                                                                                                                                                  	AbstractCsv.php
+D CONFIG                                                                                                                                                                                                          	Config
+D EXCEPTIO                                                                                                                                                                                                        	Exception
+D MODIFIER                                                                                                                                                                                                        	Modifier
+D PLUGIN                                                                                                                                                                                                          	Plugin
+F READER.PHP;1                                                                                                                                                                                                    	Reader.php
+F WRITER.PHP;1                                                                                                                                                                                                    	Writer.php

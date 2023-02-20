@@ -1,0 +1,3 @@
+F CLOSUREL.PHP;1                                                                                                                                                                                                  	ClosureLocatorVisitor.php
+F MAGICCON.PHP;1                                                                                                                                                                                                  	MagicConstantVisitor.php
+F THISDETE.PHP;1                                                                                                                                                                                                  	ThisDetectorVisitor.php

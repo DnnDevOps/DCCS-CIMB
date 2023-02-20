@@ -1,0 +1,5 @@
+F CALLBACK.PHP;1                                                                                                                                                                                                  	CallbackPromise.php
+F PROMISEI.PHP;1                                                                                                                                                                                                  	PromiseInterface.php
+F RETURNAR.PHP;1                                                                                                                                                                                                  	ReturnArgumentPromise.php
+F RETURNPR.PHP;1                                                                                                                                                                                                  	ReturnPromise.php
+F THROWPRO.PHP;1                                                                                                                                                                                                  	ThrowPromise.php

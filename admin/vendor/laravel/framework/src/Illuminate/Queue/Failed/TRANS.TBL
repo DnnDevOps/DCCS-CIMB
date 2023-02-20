@@ -1,0 +1,3 @@
+F DATABASE.PHP;1                                                                                                                                                                                                  	DatabaseFailedJobProvider.php
+F FAILEDJO.PHP;1                                                                                                                                                                                                  	FailedJobProviderInterface.php
+F NULLFAIL.PHP;1                                                                                                                                                                                                  	NullFailedJobProvider.php

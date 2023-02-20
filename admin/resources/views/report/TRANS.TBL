@@ -1,0 +1,6 @@
+F CALL_BLA.PHP;1                                                                                                                                                                                                  	call.blade.php
+F CALL_DET.PHP;1                                                                                                                                                                                                  	call_detail.blade.php
+F CHAT_BLA.PHP;1                                                                                                                                                                                                  	chat.blade.php
+F FAVORITE.PHP;1                                                                                                                                                                                                  	favorite.blade.php
+F SESSION_.PHP;1                                                                                                                                                                                                  	session.blade.php
+F STATUS_B.PHP;1                                                                                                                                                                                                  	status.blade.php

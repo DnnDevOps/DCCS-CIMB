@@ -1,0 +1,6 @@
+F GLOBALNO.TES;1                                                                                                                                                                                                  	globalNonSimpleVarError.test
+F INDIRECT.TES;1                                                                                                                                                                                                  	indirectCall.test
+F ISSET.TES;1                                                                                                                                                                                                     	isset.test
+F MISC.TES;1                                                                                                                                                                                                      	misc.test
+F NEW.TES;1                                                                                                                                                                                                       	new.test
+F STATICPR.TES;1                                                                                                                                                                                                  	staticProperty.test

@@ -1,0 +1,6 @@
+F CONFIG.M4;1                                                                                                                                                                                                     	config.m4
+F CONFIG.W32;1                                                                                                                                                                                                    	config.w32
+F PHP_SYMF.H;1                                                                                                                                                                                                    	php_symfony_debug.h
+F README.MD;1                                                                                                                                                                                                     	README.md
+F SYMFONY_.C;1                                                                                                                                                                                                    	symfony_debug.c
+D TESTS                                                                                                                                                                                                           	tests

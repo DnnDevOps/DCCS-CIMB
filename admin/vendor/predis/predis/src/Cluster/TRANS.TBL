@@ -1,0 +1,6 @@
+F CLUSTERS.PHP;1                                                                                                                                                                                                  	ClusterStrategy.php
+D DISTRIBU                                                                                                                                                                                                        	Distributor
+D HASH                                                                                                                                                                                                            	Hash
+F PREDISST.PHP;1                                                                                                                                                                                                  	PredisStrategy.php
+F REDISSTR.PHP;1                                                                                                                                                                                                  	RedisStrategy.php
+F STRATEGY.PHP;1                                                                                                                                                                                                  	StrategyInterface.php

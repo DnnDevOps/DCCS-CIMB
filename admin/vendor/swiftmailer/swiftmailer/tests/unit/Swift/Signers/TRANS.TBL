@@ -1,0 +1,3 @@
+F DKIMSIGN.PHP;1                                                                                                                                                                                                  	DKIMSignerTest.php
+F OPENDKIM.PHP;1                                                                                                                                                                                                  	OpenDKIMSignerTest.php
+F SMIMESIG.PHP;1                                                                                                                                                                                                  	SMimeSignerTest.php

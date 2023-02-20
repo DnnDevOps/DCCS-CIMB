@@ -1,0 +1,1 @@
+{"version":3,"sources":["trunk.css"],"names":[],"mappings":"AAAA;AACA;AACA","file":"trunk.css","sourcesContent":["tr td:last-child {\n    width: initial;\n}"]}

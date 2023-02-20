@@ -1,0 +1,4 @@
+F ABSTRACT.PHP;1                                                                                                                                                                                                  	AbstractFilterableInputStream.php
+F ARRAYBYT.PHP;1                                                                                                                                                                                                  	ArrayByteStream.php
+F FILEBYTE.PHP;1                                                                                                                                                                                                  	FileByteStream.php
+F TEMPORAR.PHP;1                                                                                                                                                                                                  	TemporaryFileByteStream.php

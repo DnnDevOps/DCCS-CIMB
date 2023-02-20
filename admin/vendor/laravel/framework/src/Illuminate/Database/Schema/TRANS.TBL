@@ -1,0 +1,5 @@
+F BLUEPRIN.PHP;1                                                                                                                                                                                                  	Blueprint.php
+F BUILDER.PHP;1                                                                                                                                                                                                   	Builder.php
+D GRAMMARS                                                                                                                                                                                                        	Grammars
+F MYSQLBUI.PHP;1                                                                                                                                                                                                  	MySqlBuilder.php
+F POSTGRES.PHP;1                                                                                                                                                                                                  	PostgresBuilder.php

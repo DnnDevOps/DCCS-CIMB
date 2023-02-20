@@ -1,0 +1,4 @@
+F CLASSAND.PHP;1                                                                                                                                                                                                  	ClassAndInterfaceTagRetriever.php
+F CLASSTAG.PHP;1                                                                                                                                                                                                  	ClassTagRetriever.php
+F LEGACYCL.PHP;1                                                                                                                                                                                                  	LegacyClassTagRetriever.php
+F METHODTA.PHP;1                                                                                                                                                                                                  	MethodTagRetrieverInterface.php

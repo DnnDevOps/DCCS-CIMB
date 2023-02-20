@@ -1,0 +1,5 @@
+F CRAMMD5A.PHP;1                                                                                                                                                                                                  	CramMd5Authenticator.php
+F LOGINAUT.PHP;1                                                                                                                                                                                                  	LoginAuthenticator.php
+F NTLMAUTH.PHP;1                                                                                                                                                                                                  	NTLMAuthenticator.php
+F PLAINAUT.PHP;1                                                                                                                                                                                                  	PlainAuthenticator.php
+F XOAUTH2A.PHP;1                                                                                                                                                                                                  	XOAuth2Authenticator.php

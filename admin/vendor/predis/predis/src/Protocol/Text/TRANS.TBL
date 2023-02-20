@@ -1,0 +1,5 @@
+F COMPOSIT.PHP;1                                                                                                                                                                                                  	CompositeProtocolProcessor.php
+D HANDLER                                                                                                                                                                                                         	Handler
+F PROTOCOL.PHP;1                                                                                                                                                                                                  	ProtocolProcessor.php
+F REQUESTS.PHP;1                                                                                                                                                                                                  	RequestSerializer.php
+F RESPONSE.PHP;1                                                                                                                                                                                                  	ResponseReader.php

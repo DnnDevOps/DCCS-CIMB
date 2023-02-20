@@ -1,0 +1,6 @@
+F BASETEST.PHP;1                                                                                                                                                                                                  	BaseTestRunner.php
+F EXCEPTIO.PHP;1                                                                                                                                                                                                  	Exception.php
+D FILTER                                                                                                                                                                                                          	Filter
+F STANDARD.PHP;1                                                                                                                                                                                                  	StandardTestSuiteLoader.php
+F TESTSUIT.PHP;1                                                                                                                                                                                                  	TestSuiteLoader.php
+F VERSION.PHP;1                                                                                                                                                                                                   	Version.php

@@ -1,0 +1,5 @@
+D ANALYZER                                                                                                                                                                                                        	Analyzer
+D EXCEPTIO                                                                                                                                                                                                        	Exception
+F SERIA000.PHP;1                                                                                                                                                                                                  	SerializerInterface.php
+F SERIA001.PHP;1                                                                                                                                                                                                  	Serializer.php
+F SERIALIZ.PHP;1                                                                                                                                                                                                  	SerializableClosure.php

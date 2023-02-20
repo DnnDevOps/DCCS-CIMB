@@ -1,0 +1,3 @@
+F EXCEPTIO.PHP;1                                                                                                                                                                                                  	ExceptionInterface.php
+F INVALIDA.PHP;1                                                                                                                                                                                                  	InvalidArgumentException.php
+F UNEXPECT.PHP;1                                                                                                                                                                                                  	UnexpectedValueException.php

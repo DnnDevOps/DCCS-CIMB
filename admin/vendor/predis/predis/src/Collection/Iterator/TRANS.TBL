@@ -1,0 +1,6 @@
+F CURSORBA.PHP;1                                                                                                                                                                                                  	CursorBasedIterator.php
+F HASHKEY.PHP;1                                                                                                                                                                                                   	HashKey.php
+F KEYSPACE.PHP;1                                                                                                                                                                                                  	Keyspace.php
+F LISTKEY.PHP;1                                                                                                                                                                                                   	ListKey.php
+F SETKEY.PHP;1                                                                                                                                                                                                    	SetKey.php
+F SORTEDSE.PHP;1                                                                                                                                                                                                  	SortedSetKey.php

@@ -1,0 +1,5 @@
+F COMPOSER.JSO;1                                                                                                                                                                                                  	composer.json
+F FILELOAD.PHP;1                                                                                                                                                                                                  	FileLoader.php
+F LOADERIN.PHP;1                                                                                                                                                                                                  	LoaderInterface.php
+F TRANS000.PHP;1                                                                                                                                                                                                  	Translator.php
+F TRANSLAT.PHP;1                                                                                                                                                                                                  	TranslationServiceProvider.php

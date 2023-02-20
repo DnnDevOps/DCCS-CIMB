@@ -1,0 +1,4 @@
+F ABSTRACT.PHP;1                                                                                                                                                                                                  	AbstractPipes.php
+F PIPESINT.PHP;1                                                                                                                                                                                                  	PipesInterface.php
+F UNIXPIPE.PHP;1                                                                                                                                                                                                  	UnixPipes.php
+F WINDOWSP.PHP;1                                                                                                                                                                                                  	WindowsPipes.php

@@ -1,0 +1,6 @@
+F BODYSIGN.PHP;1                                                                                                                                                                                                  	BodySigner.php
+F DKIMSIGN.PHP;1                                                                                                                                                                                                  	DKIMSigner.php
+F DOMAINKE.PHP;1                                                                                                                                                                                                  	DomainKeySigner.php
+F HEADERSI.PHP;1                                                                                                                                                                                                  	HeaderSigner.php
+F OPENDKIM.PHP;1                                                                                                                                                                                                  	OpenDKIMSigner.php
+F SMIMESIG.PHP;1                                                                                                                                                                                                  	SMimeSigner.php

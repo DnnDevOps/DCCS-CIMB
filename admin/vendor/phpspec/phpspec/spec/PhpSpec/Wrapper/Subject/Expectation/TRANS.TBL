@@ -1,0 +1,5 @@
+F CONSTRUC.PHP;1                                                                                                                                                                                                  	ConstructorDecoratorSpec.php
+F DECORATO.PHP;1                                                                                                                                                                                                  	DecoratorSpec.php
+F DISPATCH.PHP;1                                                                                                                                                                                                  	DispatcherDecoratorSpec.php
+F NEGATIVE.PHP;1                                                                                                                                                                                                  	NegativeSpec.php
+F POSITIVE.PHP;1                                                                                                                                                                                                  	PositiveSpec.php

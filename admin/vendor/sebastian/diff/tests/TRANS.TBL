@@ -1,0 +1,7 @@
+F CHUNKTES.PHP;1                                                                                                                                                                                                  	ChunkTest.php
+F DIFFERTE.PHP;1                                                                                                                                                                                                  	DifferTest.php
+F DIFFTEST.PHP;1                                                                                                                                                                                                  	DiffTest.php
+D FIXTURES                                                                                                                                                                                                        	fixtures
+D LCS                                                                                                                                                                                                             	LCS
+F LINETEST.PHP;1                                                                                                                                                                                                  	LineTest.php
+F PARSERTE.PHP;1                                                                                                                                                                                                  	ParserTest.php

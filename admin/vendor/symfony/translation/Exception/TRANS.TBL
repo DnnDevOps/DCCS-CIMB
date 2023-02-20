@@ -1,0 +1,3 @@
+F EXCEPTIO.PHP;1                                                                                                                                                                                                  	ExceptionInterface.php
+F INVALIDR.PHP;1                                                                                                                                                                                                  	InvalidResourceException.php
+F NOTFOUND.PHP;1                                                                                                                                                                                                  	NotFoundResourceException.php

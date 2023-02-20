@@ -1,0 +1,5 @@
+F HOSTVALI.PHP;1                                                                                                                                                                                                  	HostValidator.php
+F METHODVA.PHP;1                                                                                                                                                                                                  	MethodValidator.php
+F SCHEMEVA.PHP;1                                                                                                                                                                                                  	SchemeValidator.php
+F URIVALID.PHP;1                                                                                                                                                                                                  	UriValidator.php
+F VALIDATO.PHP;1                                                                                                                                                                                                  	ValidatorInterface.php

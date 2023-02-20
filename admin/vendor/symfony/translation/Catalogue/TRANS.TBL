@@ -1,0 +1,4 @@
+F ABSTRACT.PHP;1                                                                                                                                                                                                  	AbstractOperation.php
+F DIFFOPER.PHP;1                                                                                                                                                                                                  	DiffOperation.php
+F MERGEOPE.PHP;1                                                                                                                                                                                                  	MergeOperation.php
+F OPERATIO.PHP;1                                                                                                                                                                                                  	OperationInterface.php

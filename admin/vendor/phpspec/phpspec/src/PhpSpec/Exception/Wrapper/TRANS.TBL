@@ -1,0 +1,4 @@
+F COLLABOR.PHP;1                                                                                                                                                                                                  	CollaboratorException.php
+F INVALIDC.PHP;1                                                                                                                                                                                                  	InvalidCollaboratorTypeException.php
+F MATCHERN.PHP;1                                                                                                                                                                                                  	MatcherNotFoundException.php
+F SUBJECTE.PHP;1                                                                                                                                                                                                  	SubjectException.php
